@@ -1,1 +1,1 @@
-# HandWritten-Digits
+# Image Classification - MNIST DATASET (Keras)
